@@ -1,1 +1,8 @@
 nltk
+spacy
+textblob
+transformers
+gensim
+torch
+scikit-learn
+ipykernel
